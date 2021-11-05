@@ -1,0 +1,22 @@
+table{
+
+width: 400px;
+
+}
+
+th{
+    text-align: left;
+}
+
+table,th,td{
+
+    border: 1px solid#004;
+    border-collapse: collapse;
+}
+th,td{
+
+    padding: 10px;
+}
+button{
+    align-self: center;width: 300px;height: 150px;
+}
