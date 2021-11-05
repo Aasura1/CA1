@@ -1,0 +1,36 @@
+table{
+    align-self:center ;
+
+width: 50pxpx;
+
+}
+
+th{
+    text-align: left;
+}
+
+table,th,td{
+
+    border: 5px solid#004;
+    border-collapse: collapse;
+}
+th,td{
+
+    padding: 10px;
+}
+button{
+    align-self: center;width: 100px;height: 100px;
+}
+tr:nth-child(even){ 
+    background-color: blueviolet;
+   }
+
+   img {
+
+    width: 20px;
+    height: 20px;
+   }
+   caption{
+       
+       background-color: rgb(255, 0, 0);
+   }
